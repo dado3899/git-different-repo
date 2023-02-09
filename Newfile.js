@@ -1,3 +1,3 @@
-console.log("Angry about merging")
-// New update
-console.log("2222")
+function newfunc(functhing){
+    console.log(functhing)
+}
